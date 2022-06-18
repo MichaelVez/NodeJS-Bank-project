@@ -1,1 +1,23 @@
-[{ "id": 1 }]
+[
+  {
+    "name": "ike",
+    "id": "tu8gib1aukl4is2y9y",
+    "passportId": "05465",
+    "cash": -50,
+    "credit": 100
+  },
+  {
+    "name": "mike",
+    "id": "tu8gib1x4sl4isciek",
+    "passportId": "69",
+    "cash": 140,
+    "credit": 10
+  },
+  {
+    "name": "mike",
+    "id": "tu8gib14dgl4iscvux",
+    "passportId": "69",
+    "cash": 60,
+    "credit": 10
+  }
+]
